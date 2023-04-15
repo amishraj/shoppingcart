@@ -26,4 +26,5 @@ In the Server Folder: run "npm install" and then run "npm start"
 If it does not work or throws an error, run "npm audit fix --force" in the server directory
 
 Go to http://localhost:3000/ to access the web-application
+
 To access the webapp on a local network, paste in the URL from "On Your Network" in your web browser connected to the same network as the machine in which you are running the project
