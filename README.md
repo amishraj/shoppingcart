@@ -1,7 +1,7 @@
 # shoppingcart
 Built as a course requirement for CSCI 6234 Object Oriented Design
 
-# # Instructions to Install
+# Instructions to Install
 
 Install React : npm install --save react react-dom
 Install NPM on machine: https://nodejs.org/en/download
