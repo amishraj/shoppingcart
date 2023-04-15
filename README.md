@@ -9,12 +9,13 @@ Install NPM on machine: https://nodejs.org/en/download
 
 Install Express: npm install express
 
+# Verify Install
 
 Check NPM Version with: npm --version
 
-
 Open the project in VSCode or any other code editor
 
+# Running the Application
 
 In the Client Folder, open terminal and run: "npm install" and then run "npm start"
 
