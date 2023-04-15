@@ -7,6 +7,8 @@ Install React : npm install --save react react-dom
 
 Install NPM on machine: https://nodejs.org/en/download
 
+Install Express: npm install express
+
 Check NPM Version with: npm --version
 
 Open the project in VSCode or any other code editor
