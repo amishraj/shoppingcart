@@ -24,7 +24,7 @@ const products = [
   {
     _id: "3",
     name: "GameBoy Advanced SP Color",
-    image: "/images/GC.png",
+    image: "/images/GBASP.png",
     description:
     "The Game Boy Advance SP (GBA SP) is a handheld gaming console released by Nintendo in 2003. It is an updated version of the original Game Boy Advance (GBA) with improved features and a more compact design. The GBA SP features a clamshell design with a folding screen that protects the display when not in use, making it more portable and durable than its predecessor. It also has a built-in rechargeable battery, eliminating the need for AA batteries like the original GBA. The GBA SP has a backlit screen, allowing for better visibility in various lighting conditions, and also includes a headphone jack for private gaming sessions. It is compatible with a large library of Game Boy Advance games, as well as backward compatibility with Game Boy and Game Boy Color games through a cartridge slot. The GBA SP was a popular handheld gaming console among gamers due to its improved design, portability, and extensive game library.",
     price: 1,
