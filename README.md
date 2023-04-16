@@ -28,3 +28,6 @@ If it does not work or throws an error, run "npm audit fix --force" in the serve
 Go to http://localhost:3000/ to access the web-application
 
 To access the webapp on a local network, paste in the URL from "On Your Network" in your web browser connected to the same network as the machine in which you are running the project
+
+# Project Materials
+Project materials including all the diagrams and the Project Video ("OODProjectVideo.mp4") can be found in the materials directory.
